@@ -1,0 +1,137 @@
+@media (max-width:1030px){
+    /* Home CSS */
+     .home .home-banner-1,
+     .home .home-banner-2{
+        background-position: 65% center;
+        min-height: 450px;
+        }
+    .home .home-banner .home-banner-text{
+        transform: translate(-30%,-50%);
+        }
+ /* offer css */
+    .offers .offer-box .offer-info .heading-bigger{
+        font-size: 3rem !important;
+            
+        }
+         /* Testimonals css */
+         .testimonial .carousel-control-prev{
+            left:-1.75rem;
+        }
+        .testimonial .carousel-control-next{
+            right:-1.75rem;
+        }
+         
+     }
+@media (max-width:991px){
+       
+        
+       /* Home Css*/
+       .home .home-banner .home-banner-text{
+        transform: translate(-66%,-50%);
+        
+        
+    }
+        /* Gym wear css */
+        .products .up_to_content h2{
+            font-size: 1rem !important;
+        }
+       /* Special css*/
+       .special .countdown-container{
+        padding-top:10px !important;
+    }
+    .special .countdown-container{
+        padding-top:1rem !important;
+        padding-bottom:5rem !important;
+    }
+
+
+
+
+       /* Testimonial Css*/
+       
+       .testimonial .carousel-control-prev{
+        left:-1rem;
+    }
+    .testimonial .carousel-control-next{
+        right:-1rem;
+    }
+     
+     }
+@media (max-width:800px){
+ /* Home Css*/
+
+        .home .home-banner-1,
+        .home .home-banner-2{
+            
+            min-height: 350px !important; 
+               
+        }
+
+        .home .home-banner .home-banner-text{
+            text-align: center;
+            color: white;
+        }
+        .home .home-banner .home-banner-text h1{
+            font-size: 3rem;
+        }
+        .home .home-banner .home-banner-text h2{
+            font-size: 1.2rem;
+        }
+        .home .home-banner .home-banner-text .btn-danger{
+            padding: 0.5rem 1.5rem;
+        }
+        .home .slider-icon{
+            font-size: 2rem;
+        }
+
+        /* Gym wear css */
+        .products .up_to_content h2{
+            font-size: 1rem !important;
+        }
+
+
+       /* Special css*/
+       .special .countdown-container .countdown-counter li{
+        padding:1rem !important;
+        width:20% !important;
+    }
+
+       /* Testimonial Css*/
+       .testimonial .testimonial-wrapper{
+           padding :1rem !important;
+       }
+       .testimonial .carousel-control-prev,
+       .testimonial .carousel-control-next{
+           display:none;
+       }
+
+     }
+     
+
+@media (max-width:680px){
+         /*Home css*/
+
+        .home .home-banner .home-banner-text {
+            
+            width: 100%;
+            transform: translate(-50%,-50%) !important; 
+            color: white;
+            height: 300px;
+        }
+         /* Gym wear css */
+         .products .up_to_content h2{
+            font-size:0.7rem !important;
+        }
+     }
+@media (max-width:345px){
+         /* Gym wear css */
+         .products .up_to_content h2{
+            font-size:0.5rem !important;
+        }
+        .special .countdown-container .countdown-counter li{
+            padding:0.5rem !important;
+            width:20%!important;
+        }
+     }
+
+    
